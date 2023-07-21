@@ -76,9 +76,5 @@
   },
   "devDependencies": {
     "webpack-bundle-analyzer": "^4.8.0"
-  },
-  "peerDependencies": {
-    "react": "~0.14.8 || ^15.7.0 || ^16.14.0",
-    "react-dom": "~0.14.8 || ^15.7.0 || ^16.14.0"
   }
 }
